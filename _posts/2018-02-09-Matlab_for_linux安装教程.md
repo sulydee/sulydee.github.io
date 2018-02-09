@@ -2,11 +2,11 @@
 layout:     post
 title:      Matlab for linux 安装教程
 keywords:   [matlab, linux，安装]   
-category:   linux
+category:   linux教程
 tags:       [linux, matlab]
 ---
 
-# MATLAB FOR LINUX 安装指南
+# MATLAB FOR LINUX 安装教程
 1.挂载ISO镜像文件:
 
 ```bash
@@ -54,7 +54,7 @@ Name[zh_CN]=Matlab_2015b
 如果将它复制到/usr/share/applications，则得到主面板菜单栏的快捷方式。
 
 
-7.卸载MATLAB
+7.如果需要卸载MATLAB，直接在终端执行一下命令即可：
 ```bash
 $ sudo rm -rf /usr/local/MATLAB/R2014b
 ```
