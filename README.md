@@ -40,9 +40,5 @@ Github托管的是以前Jekyll版本的源码，现在博客用Hexo重新搭建
 * http://maoshu.cc
 * http://x-carto.com/
 * http://flypeom.site
-
-## 2016-02-25更新
-
-* 本博客由Jekyl迁移到Hexo,博客地址[sulydee](www.foopoo.cn) ；
-* 使用Hexo搭建个人博客具体教程参考[Jekyll迁移到Hexo建立个人博客](http://www.ezlippi.com/blog/2016/02/jekyll-to-hexo.html) ；
-* ……
+* http://foopoo.cn
+* 你的URL
