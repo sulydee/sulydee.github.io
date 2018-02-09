@@ -12,15 +12,15 @@ title: "关于：About"
 ## 联系方式
 
 <p class="contact">
- <a href="https://weibo.com/sulydee" title="微博联系我">新浪微博<img src="http://www.sinaimg.cn/blog/developer/wiki/LOGO_32x32.png" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
-        <a href="https://www.zhihu.com/people/www.foopoo.cn/activities" title="知乎联系我">知乎<img src="http://www.zhihu.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
- <a href="https://github.com/sulydee" title="Github联系我">Github<img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+ 新浪微博:<a href="https://weibo.com/sulydee" title="微博联系我"><img src="http://www.sinaimg.cn/blog/developer/wiki/LOGO_32x32.png" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+  知   乎:<a href="https://www.zhihu.com/people/www.foopoo.cn/activities" title="知乎联系我"><img src="http://www.zhihu.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
+  Github: <a href="https://github.com/sulydee" title="Github联系我"><img src="http://www.github.com/favicon.ico" width="24" height="24" style="display:inline-block;vertical-align:middle"></a><br/>
 邮箱: sulydee@163.com 
 </p>
 
 ### 关于本站：
 
-* 搭建于[Github](https://github.com/sulydee.github.io),欢迎Fork
+* 搭建于[Github](https://github.com/sulydee/sulydee.github.io),欢迎Fork
 * 模板及样式来源[Useful Paradigm](http://usefulparadigm.com/)
 * 折腾开始于2018年2月9日，基本在2018年2月16日完工。
 
